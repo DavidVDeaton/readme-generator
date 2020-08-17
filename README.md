@@ -1,7 +1,7 @@
 # README Generator
 
 # Description
-A cli application, designed to collect user's answers to prompted questions.  Collected andswers will populate a simple README.md file.
+A cli application, designed to collect user's answers to prompted questions.  Collected answers will populate a simple README.md file.
 
 ---
 
