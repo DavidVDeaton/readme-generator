@@ -3,9 +3,10 @@ function generateMarkdown(data) {
 
     // Variable for badge
 
-    let langBadge = ""
 
-    return `# ${data.title}
+    return `
+    # ${data.title}
+    ---
 
     # Table of contents
     - [Description](#description)
@@ -19,8 +20,8 @@ function generateMarkdown(data) {
 
     # Description
     ${data.description}
-    # Langurage
-    ${langBadge}
+    # Language
+    ${data.language}
     # Installation
     ${data.installation}
     # Usage
