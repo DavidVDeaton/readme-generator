@@ -1,8 +1,12 @@
 # README Generator
+
+# Description
+A cli application, designed to collect user's answers to prompted questions.  Collected andswers will populate a simple README.md file.
 ---
 
 # Table of contents
 - [Description](#description)
+- [Demonstration Video](#demo)
 - [Language](#language)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,8 +16,7 @@
 - [Questions](#questions)
 
 
-# Description
-A cli application, designed to collect user's answers to prompted questions.  Collected andswers will populate a simple README.md file.
+# Demonstration Video
 ![Demo Video]()
 
 # Language
