@@ -1,5 +1,5 @@
 
-      # HP
+      # Harry Potter
       ---
 
       # Table of contents
@@ -13,21 +13,21 @@
       - [Questions](#questions)
 
       # Description
-      Wizard
+      Wizard boy
       # Language
-      Pa
+      Parseltoungue
       # Installation
-      Dumbledore
-      # Usage
       Hogwarts
+      # Usage
+      Dumbledore
       # License
-      Ron
-      # Tests
-      Gryffindor
-      # Contributing
-      Hermione
-      # Questions
       JK Rowling
+      # Tests
+      Ron
+      # Contributing
+      Gryffindor
+      # Questions
+      Hermione
       ## Creator information  
       ---  
       Github profile: https://github.com/DavidVDeaton  
