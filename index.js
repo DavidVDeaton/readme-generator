@@ -58,7 +58,7 @@ function init() {
         name: "usage"
         },
         {
-        type: "list",
+        type: "input",
         message: `${questions[5]}`,
         name: "license",
         },
