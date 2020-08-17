@@ -13,7 +13,7 @@
 
 
 # Description
-A cli application, designed to collect user's answers to prompted questions.  Collected andswers will populate a simple README.md.
+A cli application, designed to collect user's answers to prompted questions.  Collected andswers will populate a simple README.md file.
 ![Demo Video]()
 
 # Language
@@ -23,7 +23,7 @@ Javascript was used to write this application.
 Code can be copied from github and cloned to your terminal.  Then, run npm install, and run node index.js from the same terminal.
 
 # Usage
-Simple application to help create better README.md.
+Simple application to help create better README.md files.
 
 # License
 MIT License
@@ -58,6 +58,6 @@ To contribute to this project, feel free to suggest more functionality or advanc
 Inquire about this project via github or email.
 
 ## Creator information
----
 Github profile: https://github.com/DavidVDeaton
+
 Contact email: deaton.david88@gmail.com
